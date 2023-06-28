@@ -104,7 +104,7 @@ export function Projects() {
                             return(
                                 <div key={i} className="octo-img__bg">
                                     <div className="octo-img__wrapper">
-                                        <img src={"/projects/" + project.id + "/" + img}  alt={project.name} />
+                                        <img src={process.env.PUBLIC_URL+"/projects/" + project.id + "/" + img}  alt={project.name} />
                                     </div>
                                 </div>
                             )
