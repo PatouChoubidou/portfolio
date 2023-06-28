@@ -4,7 +4,7 @@ import OctoImage from '../components/OctoImage';
 
 export function Contact() {
 
-    const imgUrl = '/contact/portrait_pb-500x500.png';
+    const imgUrl = process.env.PUBLIC_URL + '/contact/portrait_pb-500x500.png';
 
     return (
         <div className="content__wrapper">
