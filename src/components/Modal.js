@@ -39,7 +39,7 @@ export function Modal(props) {
                         key={index}
                     >
                     {index === current && (
-                        <img src={process.env.PUBLIC_URL + "projects/" + projectId + "/" + slide} alt={project.name} className='modal__img' />
+                        <img src={process.env.PUBLIC_URL + "/projects/" + projectId + "/" + slide} alt={project.name} className='modal__img' />
                     )}    
                     </div>
                     ); 
