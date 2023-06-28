@@ -10,10 +10,10 @@ export function AppRoutes() {
   return (
     <main className="main">
       <Routes>
-        <Route path="/" element={<Home />} /> 
+        <Route path="*" element={<Home />} /> 
         <Route path="/contact" element={<Contact />} />
         <Route path="/projects" element={<Projects />} />
-        <Route path="*" element={<PageNotFound />} />
+        {/* <Route path="*" element={<PageNotFound />} /> */}
       </Routes>
     </main>
   );
