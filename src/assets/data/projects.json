@@ -1,0 +1,38 @@
+[
+    {   
+        "id": 1,
+        "link": "https://mt-tuner.netlify.app/",
+        "title": "PitchFork",
+        "date": "2023",
+        "imgs": ["Tuner-UI-02.png", "Tuner-UI-03.png"],
+        "desc": "Im Modul Medientechnologie ist ein Gitarrentuner entstanden. Umgesetzt in React unter Nutzung der Web Audio API können in drei Modi Töne erzeugt, Audio Files einer Gitarre abgespielt und die Gitarre über das Mikrofon gestimmt werden. Einstellungen erhöhen die Genauigkeit der Messung.",
+        "tags": ["js", "react", "WebAudioAPI", "Sass"]
+    },
+    {
+        "id": 2,
+        "link": "",
+        "title": "Tosca lernt Rechnen",
+        "date": "2023",
+        "imgs": ["ToscaLerntRechnen.png", "ToscaLerntRechnen-05.png", "ToscaLerntRechnen-06.png"],
+        "desc": "WebApp für meine große Tochter, derzeit in der ersten Klasse. Optionen für Rechenart, Zahlenraum und Anzahl der Versuche. Natürlich in der Lieblingsfarbe, mit animierten Planeten und lustigen Sounds. Gemacht mit React.",
+        "tags": ["js", "react"]
+    }, 
+    {
+        "id": 3,
+        "link": "",
+        "title": "BugReport",
+        "date": "2022",
+        "imgs": ["BugReportPage.png", "bug-report-sign-in.png"],
+        "desc": "Im Modul Frontend-Design entstand eine Website, die einem heimische Käfer näher bringt. Gut sortiert und leserlich erweitert Groß und Klein sein Wissen über eine faszinierende Parallelwelt zu unseren Füßen.",
+        "tags": ["js", "Sass", "HTML"]
+    },
+    {
+        "id": 4,
+        "link": " ",
+        "title": "Weiss & Mauer",
+        "date": "2011 - 2016",
+        "imgs": ["weiss-mauer-01.png", "weiss-mauer-02.png"],
+        "desc": "Webdesign, Logodesign, Flyer und Content für eine Nachhilfeschule.",
+        "tags": ["js", "HTML"]
+    }
+]
