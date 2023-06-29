@@ -6,6 +6,11 @@
   --sec-color: rgb(5, 3, 36);
 }
 
+/* debug */
+* {
+  outline: 1px solid #f00 !important;
+}
+
 
 /* reset */
 
@@ -402,8 +407,7 @@ menu ul li a.active {
     display: flex;
     justify-content: left;
     margin: 30px auto 60px auto;
-    width: fit-content;
-    max-width: 600px;
+    max-width: 100%;
     border: solid 1px var(--prime-color);
     border-radius: 50px;
     overflow: hidden;
