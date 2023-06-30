@@ -23,7 +23,7 @@
         "title": "BugReport",
         "date": "2022",
         "imgs": ["BugReportPage.png", "bug-report-sign-in.png"],
-        "desc": "Im Modul Frontend-Design entstand eine Website, die einem heimische Käfer näher bringt. Gut sortiert und leserlich erweitert Groß und Klein sein Wissen über eine faszinierende Parallelwelt zu unseren Füßen.",
+        "desc": "Im Modul Frontend-Design entstand eine Website, die Usern heimische Käfer näher bringt. Gut sortiert und leserlich erweitert Groß und Klein sein Wissen über eine faszinierende Parallelwelt zu unseren Füßen.",
         "tags": ["js", "Sass", "HTML"]
     },
     {
