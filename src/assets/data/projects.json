@@ -5,7 +5,7 @@
         "title": "Chatbot Doc",
         "date": "2025",
         "imgs": ["chatbot-01.png", "chatbot-02.png"],
-        "desc": "Chatbot der die interaction mit Dokumenten im pdf, txt, oder docx format local ermöglicht.",
+        "desc": "Chatbot der die interaction mit Dokumenten im pdf-, txt-, oder docx-Format local ermöglicht.",
         "tags": ["python", "ollama", "rag", "Vue"]
     },
     {   
