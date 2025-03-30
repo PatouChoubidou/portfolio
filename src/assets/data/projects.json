@@ -4,7 +4,7 @@
         "link": "https://github.com/PatouChoubidou/chatbot_socket#readme",
         "title": "Chatbot Doc",
         "date": "2025",
-        "imgs": ["assistant-01a.png"],
+        "imgs": ["chatbot-01.png", "chatbot-02.png"],
         "desc": "Chatbot der die interaction mit Dokumenten im pdf, txt, oder docx format local ermöglicht.",
         "tags": ["python", "ollama", "rag", "Vue"]
     },
