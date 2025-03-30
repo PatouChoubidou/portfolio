@@ -15,7 +15,7 @@
         "date": "2024",
         "imgs": ["assistant-01a.png", "assistant-02a.png", "assistant.gif"],
         "desc": "Test für einen virtuellen Assistent bedient durch Spracheingabe für Mac OS. Er kann Witze erzählen, die Neuigkeiten des Tages ansagen, den Studenplan meiner Töchter aufsagen, die Uhrzeit verkünden und einiges mehr.",
-        "tags": ["python", "ollama"]
+        "tags": ["python", "ollama", "pygame"]
     },
     {   
         "id": 3,
