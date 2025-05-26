@@ -20,7 +20,7 @@ export function Contact() {
                         }}> 
                     <p style={{margin: "0 auto", width: "fit-content"}}>Hi, ihr wollt mehr wissen?</p>
                     <OctoImage src={imgUrl}></OctoImage>
-                    <Link className="" to='mailto:patricekoebel@gmail.com' style={{margin: '30px auto'}}>
+                    <Link className="" to='mailto:patricebonarius@gmail.com' style={{margin: '30px auto'}}>
                             <button className="btn--std">Mail senden</button>
                     </Link>
                 </div>
