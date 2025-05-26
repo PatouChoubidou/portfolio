@@ -1,6 +1,6 @@
 # Portfolio
 
-https://patouchoubidou.github.io/portfolio/#/
+https://patouchoubidou.github.io/portfolio
 
 ## Static site using React.
 

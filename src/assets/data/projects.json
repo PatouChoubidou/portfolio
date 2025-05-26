@@ -5,7 +5,7 @@
         "title": "Chatbot Doc",
         "date": "2025",
         "imgs": ["chatbot-01.png", "chatbot-02.png"],
-        "desc": "Chatbot der die interaction mit Dokumenten im pdf-, txt-, oder docx-Format local ermöglicht.",
+        "desc": "Chatbot der die Interaktion mit Dokumenten im pdf-, txt-, oder docx-Format local ermöglicht.",
         "tags": ["python", "ollama", "rag", "Vue"]
     },
     {   
@@ -14,7 +14,7 @@
         "title": "Assistant",
         "date": "2024",
         "imgs": ["assistant-01a.png", "assistant-02a.png", "assistant.gif"],
-        "desc": "Test für einen virtuellen Assistent bedient durch Spracheingabe für Mac OS. Er kann Witze erzählen, die Neuigkeiten des Tages ansagen, den Studenplan meiner Töchter aufsagen, die Uhrzeit verkünden und einiges mehr.",
+        "desc": "Ein virtueller Assistent bedient durch Spracheingabe für Mac OS. Er kann Witze erzählen, die Neuigkeiten des Tages ansagen, den Studenplan meiner Töchter aufsagen, die Uhrzeit verkünden und einiges mehr.",
         "tags": ["python", "ollama", "pygame"]
     },
     {   
