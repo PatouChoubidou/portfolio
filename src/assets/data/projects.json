@@ -5,11 +5,20 @@
         "title": "Chatbot Doc",
         "date": "2025",
         "imgs": ["chatbot-01.png", "chatbot-02.png"],
-        "desc": "Chatbot der die Interaktion mit Dokumenten im pdf-, txt-, oder docx-Format local ermöglicht.",
-        "tags": ["python", "ollama", "rag", "Vue"]
+        "desc": "Chatbot zur lokalen Befragung von Dokumenten. Er frisst PDFs, Word-Dokumente und Textfiles und bietet zudem RAG-Funktionalitäten",
+        "tags": ["python", "ollama", "rag", "vue"]
     },
     {   
         "id": 2,
+        "link": "https://github.com/PatouChoubidou/askTheDB#readme",
+        "title": "Ask the DB",
+        "date": "2024",
+        "imgs": ["askTheDB-01.png", "askTheDB-02.png", "askTheDB-03.png"],
+        "desc": "Ein Sprachmodell erstellt SQL-Queries zur Abfrage einer Datenbank und interpretiert die Antwort in natürlicher Sprache.",
+        "tags": ["python", "ollama", "vue", "SQL"]
+    },
+    {   
+        "id": 3,
         "link": "https://github.com/PatouChoubidou/assistant#readme",
         "title": "Assistant",
         "date": "2024",
@@ -18,7 +27,7 @@
         "tags": ["python", "ollama", "pygame"]
     },
     {   
-        "id": 3,
+        "id": 4,
         "link": "https://mt-tuner.netlify.app/",
         "title": "PitchFork",
         "date": "2023",
@@ -27,7 +36,7 @@
         "tags": ["js", "react", "WebAudioAPI", "Sass"]
     },
     {
-        "id": 4,
+        "id": 5,
         "link": "https://rechnen-lernen.netlify.app/",
         "title": "Tosca lernt Rechnen",
         "date": "2023",
@@ -36,7 +45,7 @@
         "tags": ["js", "react"]
     }, 
     {
-        "id": 5,
+        "id": 6,
         "link": "",
         "title": "BugReport",
         "date": "2022",
@@ -45,7 +54,7 @@
         "tags": ["js", "Sass", "HTML"]
     },
     {
-        "id": 6,
+        "id": 7,
         "link": "",
         "title": "Amt für Gesundheit der Quallen",
         "date": "2022",
@@ -54,7 +63,7 @@
         "tags": ["Axure", "Figma"]
     },
     {
-        "id": 7,
+        "id": 8,
         "link": "",
         "title": "SneakCity",
         "date": "2020",
@@ -63,7 +72,7 @@
         "tags": ["iOS", "MapKit"]
     },
     {
-        "id": 8,
+        "id": 9,
         "link": "",
         "title": "ToolPool",
         "date": "2020",
@@ -72,7 +81,7 @@
         "tags": ["Illustrator", "Photoshop"]
     },
     {
-        "id": 9,
+        "id": 10,
         "link": "",
         "title": "KiezLeben",
         "date": "2019",
@@ -81,7 +90,7 @@
         "tags": ["HTML", "js", "Sass"]
     },
     {
-        "id": 10,
+        "id": 11,
         "link": "",
         "title": "StreetCourt - App",
         "date": "2018",
@@ -90,7 +99,7 @@
         "tags": ["Illustrator", "Photoshop"]
     },
     {
-        "id": 11,
+        "id": 12,
         "link": "",
         "title": "GoodNightMonday",
         "date": "2014",
@@ -99,7 +108,7 @@
         "tags": ["HTML", "js", "css"]
     },
     {
-        "id": 12,
+        "id": 13,
         "link": " ",
         "title": "Weiss & Mauer",
         "date": "2011 - 2016",
